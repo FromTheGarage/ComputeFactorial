@@ -1,2 +1,2 @@
 # ComputeFactorial
-Factorial Calculator
+Basic Java Factorial Calculator
